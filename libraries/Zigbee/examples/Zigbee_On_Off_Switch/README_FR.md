@@ -1,4 +1,4 @@
-# Arduino-ESP32 Zigbee On/Off Light Switch Example
+# Exemple d'interrupteur marche/arrêt Zigbee Arduino-ESP32
 
 This example shows how to configure Zigbee Coordinator and use it as a Home Automation (HA) on/off light switch.
 
